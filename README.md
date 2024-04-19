@@ -1,1 +1,1 @@
-# SensibleAI-MSHackathon
+# MSHackathon
